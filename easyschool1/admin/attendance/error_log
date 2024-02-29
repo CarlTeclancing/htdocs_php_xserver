@@ -1,0 +1,87 @@
+[20-Dec-2022 10:02:20 UTC] PHP Warning:  Undefined variable $hideFromBoth in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 104
+[20-Dec-2022 10:02:20 UTC] PHP Warning:  Undefined variable $hideFromBoth in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 134
+[20-Dec-2022 10:02:20 UTC] PHP Warning:  Undefined variable $hideFromBoth in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 177
+[20-Dec-2022 10:02:20 UTC] PHP Warning:  Undefined variable $hideFromBoth in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 220
+[20-Dec-2022 10:02:20 UTC] PHP Warning:  Undefined variable $hideFromBoth in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 268
+[20-Dec-2022 10:02:20 UTC] PHP Warning:  Undefined variable $hideFromStudent in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 336
+[20-Dec-2022 10:02:20 UTC] PHP Warning:  Undefined variable $hideFromStudent in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 398
+[20-Dec-2022 10:02:20 UTC] PHP Warning:  Undefined variable $hideFromBoth in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 430
+[20-Dec-2022 10:02:23 UTC] PHP Warning:  Undefined variable $hideFromBoth in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 104
+[20-Dec-2022 10:02:23 UTC] PHP Warning:  Undefined variable $hideFromBoth in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 134
+[20-Dec-2022 10:02:23 UTC] PHP Warning:  Undefined variable $hideFromBoth in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 177
+[20-Dec-2022 10:02:23 UTC] PHP Warning:  Undefined variable $hideFromBoth in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 220
+[20-Dec-2022 10:02:23 UTC] PHP Warning:  Undefined variable $hideFromBoth in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 268
+[20-Dec-2022 10:02:23 UTC] PHP Warning:  Undefined variable $hideFromStudent in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 336
+[20-Dec-2022 10:02:23 UTC] PHP Warning:  Undefined variable $hideFromStudent in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 398
+[20-Dec-2022 10:02:23 UTC] PHP Warning:  Undefined variable $hideFromBoth in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 430
+[20-Dec-2022 10:02:24 UTC] PHP Warning:  Undefined variable $hideFromBoth in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 104
+[20-Dec-2022 10:02:24 UTC] PHP Warning:  Undefined variable $hideFromBoth in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 134
+[20-Dec-2022 10:02:24 UTC] PHP Warning:  Undefined variable $hideFromBoth in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 177
+[20-Dec-2022 10:02:24 UTC] PHP Warning:  Undefined variable $hideFromBoth in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 220
+[20-Dec-2022 10:02:24 UTC] PHP Warning:  Undefined variable $hideFromBoth in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 268
+[20-Dec-2022 10:02:24 UTC] PHP Warning:  Undefined variable $hideFromStudent in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 336
+[20-Dec-2022 10:02:24 UTC] PHP Warning:  Undefined variable $hideFromStudent in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 398
+[20-Dec-2022 10:02:24 UTC] PHP Warning:  Undefined variable $hideFromBoth in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 430
+[24-Dec-2022 12:22:58 UTC] PHP Warning:  Undefined variable $hideFromBoth in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 104
+[24-Dec-2022 12:22:58 UTC] PHP Warning:  Undefined variable $hideFromBoth in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 134
+[24-Dec-2022 12:22:58 UTC] PHP Warning:  Undefined variable $hideFromBoth in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 177
+[24-Dec-2022 12:22:58 UTC] PHP Warning:  Undefined variable $hideFromBoth in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 220
+[24-Dec-2022 12:22:58 UTC] PHP Warning:  Undefined variable $hideFromBoth in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 268
+[24-Dec-2022 12:22:58 UTC] PHP Warning:  Undefined variable $hideFromStudent in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 336
+[24-Dec-2022 12:22:58 UTC] PHP Warning:  Undefined variable $hideFromStudent in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 398
+[24-Dec-2022 12:22:58 UTC] PHP Warning:  Undefined variable $hideFromBoth in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 430
+[24-Dec-2022 12:23:51 UTC] PHP Warning:  Undefined variable $hideFromAdminTeacher in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 342
+[24-Dec-2022 12:23:51 UTC] PHP Warning:  Undefined variable $hideFromAdminTeacher in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 383
+[24-Dec-2022 12:23:51 UTC] PHP Warning:  Undefined variable $hideFromAdminTeacher in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 391
+[24-Dec-2022 12:23:56 UTC] PHP Warning:  Undefined array key "roleId" in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 14
+[24-Dec-2022 12:23:56 UTC] PHP Warning:  Undefined array key "roleId" in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 14
+[24-Dec-2022 12:23:56 UTC] PHP Warning:  Undefined array key "roleId" in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 18
+[24-Dec-2022 12:23:56 UTC] PHP Warning:  Undefined array key "roleId" in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 18
+[24-Dec-2022 12:23:56 UTC] PHP Warning:  Undefined array key "roleId" in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 22
+[24-Dec-2022 12:23:56 UTC] PHP Warning:  Undefined array key "roleId" in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 25
+[24-Dec-2022 12:23:56 UTC] PHP Warning:  Undefined array key "roleId" in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 29
+[24-Dec-2022 12:23:56 UTC] PHP Warning:  Undefined array key "firstName" in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 56
+[24-Dec-2022 12:23:56 UTC] PHP Warning:  Undefined array key "lastName" in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 56
+[24-Dec-2022 12:23:56 UTC] PHP Warning:  Undefined variable $hideFromBoth in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 104
+[24-Dec-2022 12:23:56 UTC] PHP Warning:  Undefined variable $hideFromBoth in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 134
+[24-Dec-2022 12:23:56 UTC] PHP Warning:  Undefined variable $hideFromBoth in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 177
+[24-Dec-2022 12:23:56 UTC] PHP Warning:  Undefined variable $hideFromBoth in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 220
+[24-Dec-2022 12:23:56 UTC] PHP Warning:  Undefined variable $hideFromBoth in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 268
+[24-Dec-2022 12:23:56 UTC] PHP Warning:  Undefined array key "userId" in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 322
+[24-Dec-2022 12:23:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/rabbitma/public_html/easyschool/includes/sidebar.php:324
+Stack trace:
+#0 /home/rabbitma/public_html/easyschool/includes/sidebar.php(324): mysqli_query()
+#1 /home/rabbitma/public_html/easyschool/admin/attendance/mark-attendance.php(134): require('/home/rabbitma/...')
+#2 {main}
+  thrown in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 324
+[24-Dec-2022 12:25:12 UTC] PHP Warning:  Undefined variable $hideFromAdminTeacher in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 342
+[24-Dec-2022 12:25:12 UTC] PHP Warning:  Undefined variable $hideFromAdminTeacher in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 383
+[24-Dec-2022 12:25:12 UTC] PHP Warning:  Undefined variable $hideFromAdminTeacher in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 391
+[24-Dec-2022 12:25:24 UTC] PHP Warning:  Undefined variable $hideFromAdminTeacher in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 342
+[24-Dec-2022 12:25:24 UTC] PHP Warning:  Undefined variable $hideFromAdminTeacher in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 383
+[24-Dec-2022 12:25:24 UTC] PHP Warning:  Undefined variable $hideFromAdminTeacher in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 391
+[24-Dec-2022 12:25:41 UTC] PHP Warning:  Undefined variable $hideFromAdminTeacher in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 342
+[24-Dec-2022 12:25:41 UTC] PHP Warning:  Undefined variable $hideFromAdminTeacher in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 383
+[24-Dec-2022 12:25:41 UTC] PHP Warning:  Undefined variable $hideFromAdminTeacher in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 391
+[24-Dec-2022 12:26:12 UTC] PHP Warning:  Undefined variable $hideFromAdminTeacher in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 342
+[24-Dec-2022 12:26:12 UTC] PHP Warning:  Undefined variable $hideFromAdminTeacher in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 383
+[24-Dec-2022 12:26:12 UTC] PHP Warning:  Undefined variable $hideFromAdminTeacher in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 391
+[24-Dec-2022 12:26:17 UTC] PHP Warning:  Undefined variable $hideFromAdminTeacher in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 342
+[24-Dec-2022 12:26:17 UTC] PHP Warning:  Undefined variable $hideFromAdminTeacher in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 383
+[24-Dec-2022 12:26:17 UTC] PHP Warning:  Undefined variable $hideFromAdminTeacher in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 391
+[24-Dec-2022 12:26:21 UTC] PHP Warning:  Undefined array key "attendance" in /home/rabbitma/public_html/easyschool/admin/attendance/mark-attendance.php on line 16
+[24-Dec-2022 12:26:21 UTC] PHP Warning:  Undefined variable $hideFromAdminTeacher in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 342
+[24-Dec-2022 12:26:21 UTC] PHP Warning:  Undefined variable $hideFromAdminTeacher in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 383
+[24-Dec-2022 12:26:21 UTC] PHP Warning:  Undefined variable $hideFromAdminTeacher in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 391
+[24-Dec-2022 12:26:21 UTC] PHP Warning:  Undefined variable $hideFromAdminTeacher in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 342
+[24-Dec-2022 12:26:21 UTC] PHP Warning:  Undefined variable $hideFromAdminTeacher in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 383
+[24-Dec-2022 12:26:21 UTC] PHP Warning:  Undefined variable $hideFromAdminTeacher in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 391
+[24-Dec-2022 12:26:27 UTC] PHP Warning:  Undefined variable $hideFromAdminTeacher in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 342
+[24-Dec-2022 12:26:27 UTC] PHP Warning:  Undefined variable $hideFromAdminTeacher in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 383
+[24-Dec-2022 12:26:27 UTC] PHP Warning:  Undefined variable $hideFromAdminTeacher in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 391
+[24-Dec-2022 12:26:29 UTC] PHP Warning:  Undefined variable $hideFromAdminTeacher in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 342
+[24-Dec-2022 12:26:29 UTC] PHP Warning:  Undefined variable $hideFromAdminTeacher in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 383
+[24-Dec-2022 12:26:29 UTC] PHP Warning:  Undefined variable $hideFromAdminTeacher in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 391
+[24-Dec-2022 12:26:31 UTC] PHP Warning:  Undefined variable $hideFromAdminTeacher in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 342
+[24-Dec-2022 12:26:31 UTC] PHP Warning:  Undefined variable $hideFromAdminTeacher in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 383
+[24-Dec-2022 12:26:31 UTC] PHP Warning:  Undefined variable $hideFromAdminTeacher in /home/rabbitma/public_html/easyschool/includes/sidebar.php on line 391

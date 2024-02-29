@@ -1,0 +1,680 @@
+.xmuiSpinner {
+    margin:6pt;
+    height:20pt;
+    width: 20pt;
+    vertical-align:middle;
+    display: inline-block;
+}
+
+.xmuiCore * {
+    border:0;
+}
+
+.xmuiCore tr {
+    border:0;
+}
+
+.xmuiForm {
+    width: 100%;
+    text-align:center;
+    font-size: 14pt;
+    font-family: arial;
+}
+
+.xmuiMenuItem {
+    box-sizing: border-box;
+    padding: 1pt;
+    line-height: 26pt;
+    height: 30pt;
+    width: 70%;
+    margin: auto;
+    margin-bottom: 2pt;
+    margin-top: 2pt;
+    overflow: auto;
+    font-size: 12pt;
+    border: solid 1pt lightgray;
+    position: relative; 
+}
+
+.xmuiAuthenticatorMenuItem {
+    overflow: hidden;
+}
+
+.xmuiMenuItemAnnunciators {
+    position: absolute;
+    top: 6pt;
+    right: 5pt;
+}
+
+.xmuiMenuItemAnnunciator {
+    display: inline-block;
+    border: 0;
+    width: 24pt;
+    height: 24pt;
+    position: relative;
+}
+
+.xmuiMethodMenuItem {
+    position: relative;
+}
+
+.xmuiMethodMenuItemText {
+    display: block;
+}
+
+.xmuiMethodMenuAnnLocked {
+    background-image: url('../images/12_Lock.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.xmuiMethodMenuAnnUnregister {
+    background-image: url('../images/06_Trash.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.xmuiMethodMenuAnnReRegister {
+    background-image: url('../images/07_Edit.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.xmuiMehtodMenuAnnRegister {
+    background-image: url('../images/08_Add.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.xmuiMethodMenuAnnDefault {
+    background-image: url('../images/active_2bd96e.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.xmuiMehtodMenuAnnExpired {
+    background-image: url('../images/expired.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.xmuiDeviceItemBackground {
+    background: url('../images/21_Desktop.svg');
+    background-size: 56px;
+    background-position: 10px 8px;
+    background-repeat: no-repeat;
+}
+
+.xmuiDeviceInfoItem {
+    width: 100%;
+    height: 60px;
+    padding-top: 10px;
+    font-size: 14px;
+    border: 0;
+    border-bottom: silver 1px solid;
+    overflow: hidden;
+    position: relative;
+}
+
+.xmuiDeviceInfoMain {
+    color: #567ce1;
+    padding-bottom: 4px;
+}
+
+.xmuiDeviceInfoSecondary {
+    color: black;
+    font-size: 12px;
+}
+
+.xmuiDeviceInfoItem:first-child {
+    border-top: silver 1px solid;
+}
+
+.xmuiDeviceItemActions {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
+
+.xmuiDeviceAction {
+    display: inline-block;
+    width: 32px;
+    height: 32px;
+    padding-top: 20px;
+}
+
+.xmuiDeviceActive {
+    background: #0e844d;
+    color: white;
+    padding: 4px;
+    border-radius: 6px;
+    font-size: 12px;
+}
+
+.xmuiDeviceName {
+    margin: 10px;
+}
+
+.xmuiDeviceAction:hover {
+    cursor: pointer;
+}
+
+.xmuiDeviceItemRemove {
+    background-image: url('../images/06_Trash.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.xmuiDeviceItemRename {
+    background-image: url('../images/07_Edit.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.xmuiLoginInstructionsLabel {
+    font-size: 14pt;
+}
+
+div.xmuiForm div.xmuiSpinner, div.xmuiFullHeightContentBelowPrompt div.xmuiSpinner {
+    background: url('../images/spinner.gif');
+    background-size: contain;
+    width: 32px;
+    height: 32px;
+}
+
+div.xmuiForm {
+	width:100%;
+	text-align:center;
+	margin: auto
+}
+
+.xmuiMethodMenu_password {
+    background: url('../images/01_Password.svg');
+    background-size: 30px;
+    background-position: 10px 8px;
+    background-repeat: no-repeat;
+}
+
+.xmuiMethodMenu_otp {
+    background: url('../images/16_Otp.svg');
+    background-size: 30px;
+    background-position: 10px 8px;
+    background-repeat: no-repeat;
+}
+
+.xmuiMethodMenu_mobile_approve {
+    background: url('../images/20_Iphone.svg');
+    background-size: 30px;
+    background-position: 10px 8px;
+    background-repeat: no-repeat;
+}
+
+.xmuiMethodMenu_voice_server {
+    background: url('../images/15_Voice.svg');
+    background-size: 30px;
+    background-position: 10px 8px;
+    background-repeat: no-repeat;
+}
+
+.xmuiMethodMenu_mobile_pin {
+    background: url('../images/clickable_sms.svg');
+    background-size: 30px;
+    background-position: 10px 8px;
+    background-repeat: no-repeat;
+}
+
+.xmuiMethodMenu_question {
+    background: url('../images/question.svg');
+    background-size: 30px;
+    background-position: 10px 8px;
+    background-repeat: no-repeat;
+}
+
+.xmuiMethodMenu_pattern_centralized {
+    background: url('../images/05_Pattern.svg');
+    background-size: 30px;
+    background-position: 10px 8px;
+    background-repeat: no-repeat;
+}
+
+.xmuiMethodMenu_pin_centralized {
+    background: url('../images/03_Pin.svg');
+    background-size: 30px;
+    background-position: 10px 8px;
+    background-repeat: no-repeat;
+}
+
+.xmuiPasswordForm input {
+    margin-top: 80px;
+    margin-bottom: 120px;
+    background: url('../images/12_Lock.svg');
+    background-size: 20px;
+    background-repeat: no-repeat;
+}
+
+.xmuiPatternControl {
+    margin: auto;
+}
+
+.xmuiPatternRegRestartButton {
+    width: 40%;
+    margin-right: 5%;
+}
+
+.xmuiPatternRegContinueButton {
+    width: 40%;
+}
+
+.xmuiForm div button {
+    background: #567ce1;
+    list-style-type: none;
+    font-size: 10pt;
+    padding: 6pt;
+    color: white;
+    width: 100pt;
+    border: none;
+}
+
+.xmuiForm input {
+    border:0;
+    border-bottom: 1px rgb(153, 153, 153) solid;
+    font-size: 14pt;
+    text-align: center;
+}
+
+.xmuiOtpForm input {
+    margin-top: 80px;
+    margin-bottom: 120px;
+}
+
+.xmuiOtpForm .xmuiResendButton {
+    background: none;
+    border: none;
+    color: black;
+    text-decoration: underline;
+}
+
+.xmuiOtpForm .xmuiLoginButton {
+    width: 100pt;
+    border: none;
+}
+
+.xmuiPinForm input {
+    margin-top: 80px;
+    margin-bottom: 120px;
+}
+
+.xmuiPinForm .xmuiLoginButton {
+    width: 100pt;
+    border: none;
+}
+
+.xmuiTotpForm .xmuiLoginButton {
+    width: 100pt;
+    border: none;
+}
+
+.xmuiTotpChallenge {
+    display: flex;
+    flex-flow: column;
+    justify-content: space-around;
+}
+
+.xmuiTotpInput {
+    width: 100%;
+    margin-top: 30pt;
+}
+
+.xmuiForm {
+    margin-top: 0;
+    height: 100%;
+}
+
+div.xmuiMenuItems {
+    margin-top: 12pt;
+    margin-left: 2px;
+    margin-right: 2px;
+    height: 100%;
+    border: 0;
+    overflow: auto;
+}
+
+.xmuiMenuItem {
+    box-sizing: border-box;
+    border: 0;
+    border-bottom: silver 1px solid;
+    color: black;
+    font-size: 10pt;
+    margin: 0;
+    padding: 6pt;
+    width: 100%;
+    height: 36pt;
+    line-height: 24pt;
+}
+
+.xmuiMenuItem:first-child {
+    border-top: silver 1px solid;
+}
+
+.xmuiMenuItemDisabled {
+    background-color: #f0f0f0;
+    color:gray;
+}
+
+.xmuiPrompt {
+    display: block;
+    background: #f8f9fe;
+    line-height: 36pt;
+    font-size: 10pt;
+    font-weight: normal;
+    color: #3c3c42;
+}
+
+.xmuiPromptError {
+    background: #f8e6eb;
+    color: #f51f5b;
+}
+
+h1.xmuiPrompt {
+    font-size: 10pt;
+    font-weight: normal;
+    margin:0;
+}
+
+.xmuiFullHeightContentBelowPrompt {
+    padding-top: 36pt;
+    margin-top: -36pt;
+    padding-bottom: 24pt;
+    margin-bottom: -24pt;
+    height: 100%;
+    box-sizing: border-box;
+}
+
+.xmuiAudioAnalyzer {
+    height: 120;
+    width: 120;
+    margin:auto;
+    background-color: white;
+    border-radius: 8px;
+    border: #567ce1 1px solid;
+}
+
+.xmuiAudioAnalyzer canvas {
+ }
+
+.xmuiVoicePassphrase {
+    font-size: 12pt;
+    line-height: 18pt;
+    width: 80%;
+    background: white;
+    border: solid 1px lightgray;
+    margin:auto;
+    margin-top: 10pt;
+    margin-bottom: 10pt;
+    border-radius: 6px;
+    font-family: monospace;
+}
+
+.xmuiForm div.xmuiAudioControls button {
+    height: 120px;
+    width: 120px;
+    background: white url('../images/voice_567ce1.svg') center;
+    background-size: auto;
+    border-radius: 8px;
+    border: 2pt solid #567ce1;
+}
+
+.xmuiOtpImg {
+    height: 120px;
+}
+
+.xmuiOtherUser {
+    background: url('../images/add_567ce1.svg');
+    background-size: 30px;
+    background-position: 10px 8px;
+    background-repeat: no-repeat;
+}
+
+.xmuiExistingUser {
+    background: url('../images/10_User.svg');
+    background-size: 30px;
+    background-position: 10px 8px;
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.xmuiExistingUserDelete {
+    background: url('../images/06_Trash.svg') center;
+    background-repeat: no-repeat;
+    width: 30px;
+    height: 100%;
+    position: relative;
+    float: right;
+    top: -26pt;
+}
+
+ul.xmuiTilesList {
+    padding: 0px;
+    margin: 16px;
+    list-style: none;
+}
+
+ul.xmuiTilesList li {
+    list-style-type: none;
+    margin-top:6px;
+    margin-bottom:6px;
+}
+
+ul.xmuiLoginTiles {
+    box-sizing:border-box;
+    min-height:400px;
+}
+
+ul.xmuiLoginTiles li {
+	box-sizing:border-box;
+	line-height:30pt;
+	height: 38pt;
+	width: 100%;
+	overflow: hidden;
+	font-size: 14pt;
+    background-color: white;
+}
+
+ul.xmuiLoginTiles li table {
+    display: block;
+}
+
+ul.xmuiLoginTiles li .xmuiLoginTitle {
+    box-sizing:border-box;
+    padding: 3px;
+    line-height:30pt;
+    height: 34pt;
+    font-size: 14pt;
+    width: 100%;
+    overflow: hidden;
+    font-weight: normal;
+    text-align: center;
+    margin: 0px;
+    border-bottom: 1pt #cccccc solid;
+}
+
+ul.xmuiLoginTiles td {
+    vertical-align: top;
+    background: white;
+}
+
+ul.xmuiLoginTiles li a {
+    text-decoration: none;
+    color: black;
+}
+
+ul.xmuiLoginTiles li table {
+    width: 100%;
+    height: 100%;
+}
+
+ul.xmuiLoginTiles li i {
+    margin-right: 4pt;
+}
+
+.xmuiNewUserFormItem {
+    width: 100%;
+    height: 25%;
+    display: inline-block;
+    padding-top: 100px;
+}
+
+.xmuiInputUserNameParent {
+    height: 100%;
+    vertical-align: middle;
+}
+
+.xmuiPageHeader {
+    background: #567ce1;
+    height: 36pt;
+}
+
+.xmuiPageHeader div {
+    text-align: center;
+    line-height: 36pt;
+    color: white;
+    position: relative;
+}
+
+.xmuiPageHeader div button {
+    position: absolute;
+    right: 10pt;
+    top: 8pt;
+    background-color: #5066d4;
+    color: white;
+    border: none;
+    font-size: 10pt;
+    padding: 1pt 4pt 1pt 4pt;
+    width: auto;
+    line-height: 24px;
+}
+
+.xmuiNewUserFormItem input {
+    text-align: center;
+}
+
+.xmuiMethodFallbackText {
+    margin: 25% 0;
+}
+
+.xmuiMethodFallbackCancelLink {
+    font-size: 12pt;
+}
+
+.xmuiHalfHeight {
+    height: 50%;
+}
+
+.xmuiHalfHeightText {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.xmuiConfirmationContinueButton {
+    margin-right: 5%;
+}
+
+.xmuiRememberUserLabel {
+    font-size: 10pt;
+}
+
+.xmuiTable {
+    display: table;
+    table-layout: fixed;
+    width: 100%;
+    height: 100%;
+    padding: 0;
+}
+
+.xmuiTableRow {
+    display: table-row;
+}
+
+.xmuiTableCell {
+    display: table-cell;
+}
+
+.xmuiRejectionForm div.xmuiFullHeightContentBelowPrompt {
+    display:flex;
+    flex-flow:column;
+    justify-content:space-around;
+}
+
+.xmuiAuthMobileDeviceSelection {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.xmuiSecurityQuestion {
+    text-align: left;
+    padding: 16pt;    
+}
+
+.xmuiSecurityQuestion input {
+    width: 100%;
+    text-align: left;
+}
+
+/*
+	patternLock.js v 1.0.1
+	Author: Sudhanshu Yadav
+	Copyright (c) 2016 Sudhanshu Yadav - ignitersworld.com , released under the MIT license.
+	Demo and documentaion on: ignitersworld.com/lab/patternLock.html
+*/
+
+.patt-holder{ -ms-touch-action: none;}
+.patt-wrap{position:relative; cursor:pointer;}
+.patt-wrap ul, .patt-wrap li{
+	list-style: none;
+	margin:0;
+	padding: 0;
+}
+.patt-circ{
+	position:relative;
+	float: left;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	border:2px solid #567ce1;
+}
+
+.patt-circ.hovered{
+	background: #e6edff;
+}
+
+.patt-error .patt-circ.hovered{
+	background: #f8e6eb;
+}
+
+.patt-hidden .patt-circ.hovered{border:0;}
+
+.patt-dots{
+	background: #567ce1;
+	width: 10px;height: 10px;
+	border-radius:5px;
+	position:absolute;
+	top:50%;
+	left:50%;
+	margin-top:-5px;
+	margin-left:-5px;
+}
+.patt-lines{
+	height:2px;
+	background: #567ce1;
+	position:absolute;
+	transform-origin:2px 2px;
+	-ms-transform-origin:2px 2px; /* IE 9 */
+	-webkit-transform-origin:2px 2px;
+}
+
+.patt-hidden .patt-lines{
+	display:none;
+}
+
+/* end of patternLock.js styles */

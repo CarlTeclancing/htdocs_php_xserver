@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<role>
+    <user> 
+        <roleid>8</roleid>
+        <name>Admin</name> 
+    </user>
+
+    <user> 
+        <roleid>9</roleid>
+        <name>Teacher</name> 
+    </user>
+
+     <user> 
+        <roleid>10</roleid>
+        <name>Student</name> 
+    </user>
+
+    <user> 
+        <roleid>11</roleid>
+        <name>Supervisor</name> 
+    </user>
+
+</role>
